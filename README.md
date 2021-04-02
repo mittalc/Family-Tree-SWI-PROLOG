@@ -11,6 +11,17 @@ Females: Anne, Rose, Sophia
 Define new predicates for the following family relations: Father, Mother, Sister, Brother,
 Grandmother, Grandfather, Ancestor, Cousin, Uncle, Son and Daughter.
 
+Now try running queries for the following questions - 
+
+a. Was George the parent of Oliver?
+b. Who was Oliver's parent?
+c. Who were the children of Oliver?
+d. Who were the brothers of Anne?
+e. Who were the cousins of Rose?
+
+![Screenshot](queries.png)
+
+
 
 How to run?
 
