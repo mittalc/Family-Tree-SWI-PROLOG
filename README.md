@@ -1,6 +1,6 @@
 # Family-Tree-SWI-PROLOG
 
-Consider the following family tree corresponding to the following Prolog program:
+## Consider the following family tree corresponding to the following Prolog program:
 
 ![Screenshot](tree.png)
 
@@ -24,7 +24,7 @@ e. Who were the cousins of Rose?
 
 
 
-How to run?
+## How to run?
 
 SWI-Prolog offers a comprehensive free Prolog environment. Since its start in 1987, SWI-Prolog development has been driven by the needs of real world applications. SWI-Prolog is widely used in research and education as well as commercial applications. Join over a million users who have downloaded SWI-Prolog.
 
